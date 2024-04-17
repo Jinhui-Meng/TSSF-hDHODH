@@ -1,0 +1,6 @@
+Num_ID,NAME,SMILES,exp_pIC50
+z002,2,O=C(Nc1ccc(C(F)(F)F)cc1)c1nonc1O,5.367
+z003,3,O=C(Cc1nonc1O)Nc1ccc(-c2ccccc2)cc1,4.959
+z004,4,O=C(Cc1nonc1O)Nc1ccccc1-c1ccccc1,4.347
+z005,5,O=C(Cc1nonc1O)Nc1ccc(-c2ccc(C(F)(F)F)cc2)cc1,4.31
+z006,6,O=C(Cc1nonc1O)Nc1ccc(-c2cccc(C(F)(F)F)c2)cc1,4.602
