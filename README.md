@@ -10,7 +10,7 @@ a machine learning-based target-specific scoring function for structure-based bi
 * Pandas >= 1.0.4
 * Joblib >= 0.15
 
-We suggest to run the code in a conda environment. We provide an `environment.yml` file that can be used to install the needed packages:
+We suggest to run the code in a conda environment. We provide an `environment.yaml` file that can be used to install the needed packages:
 
 `conda env create -f environment.yaml `
 
